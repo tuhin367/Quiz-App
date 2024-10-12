@@ -141,7 +141,7 @@ const radioSelection =()=>{
     }
 
 const countdown=( )=>{
-    let times =10;
+    let times =45;
 
     var interval = setInterval(()=>{
         
